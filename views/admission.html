@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>College Admissions Portal</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="form-container">
+    <h2>College Admission Form</h2>
+    <form action="/submit" method="POST">
+      <label>Full Name:</label>
+      <input type="text" name="fullName" required><br>
+
+      <label>Email:</label>
+      <input type="email" name="email" required><br>
+
+      <label>Phone Number:</label>
+      <input type="text" name="phone" required><br>
+
+      <label>Course Selection:</label>
+      <select name="course" required>
+        <option value="">--Select a course--</option>
+        <option value="Computer Science">Computer Science</option>
+        <option value="Mechanical Engineering">Mechanical Engineering</option>
+        <option value="Business Administration">Business Administration</option>
+      </select><br>
+
+      <button type="submit">Submit Application</button>
+    </form>
+  </div>
+</body>
+</html>
