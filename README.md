@@ -64,9 +64,11 @@ A simple web-based admissions form portal built using **Express.js**. It allows 
 
 ## 📸 Output Screens
 
-![image](https://github.com/user-attachments/assets/f528dca9-608a-4833-8f39-9b5260a666bb)
+![Screenshot (61)](https://github.com/user-attachments/assets/6122b744-52f8-49e6-a4dd-85203feef7eb)
 
-![image](https://github.com/user-attachments/assets/519f9011-dfe1-478f-b42b-5dac9425ac7a)
+
+![Screenshot (62)](https://github.com/user-attachments/assets/912aff68-3407-4012-aec9-41a6ae1cd191)
+
 
 
 
